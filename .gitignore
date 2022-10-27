@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/Workshop4/v17/Browse.VC.db-shm
+/.vs/Workshop4/v17
